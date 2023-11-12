@@ -13,5 +13,8 @@
 ● 황기준 조원 : JIRA , 직원관리 | 수업 관리 | 후기게시판
 # 5. 사용 언어  툴
 <img width="542" alt="image" src="https://github.com/Parksangbean/Academy/assets/135796934/1fb04602-a2af-4b36-bf48-35c4b3b51828">
+# 6. EER 다이어그램
+<img width="538" alt="image" src="https://github.com/Parksangbean/Academy/assets/135796934/b70cecb2-72dc-48a2-b044-15da2c3a4a92">
+
 
 
